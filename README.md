@@ -20,7 +20,7 @@
 ### After
 
 <p align="center">
-    <img src="./README/2.png" width="250px">
+    <img src="./README/2.png" width="140px">
 </p>
 
 ## Usage
