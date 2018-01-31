@@ -11,13 +11,13 @@
 
 ## Effect
 
-### Beofre
+#### Beofre
 
 <p align="center">
     <img src="./README/1.png" width="250px">
 </p>
 
-### After
+#### After
 
 <p align="center">
     <img src="./README/2.png" width="140px">
