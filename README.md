@@ -1,4 +1,4 @@
-# PNG-Sorter
+<h1 align="center"> PNG-Sorter </h1>
 
 ## Effect
 
@@ -11,7 +11,7 @@
 ### After
 
 <p align="center">
-    <img src="./README/1.png" width="250px">
+    <img src="./README/2.png" width="250px">
 </p>
 
 ## Usage
