@@ -4,8 +4,8 @@
     <a href="https://opensource.org/licenses/MIT">
         <img alt="Licence" src="https://img.shields.io/badge/license-MIT-green.svg" />
     </a>
-    <a href="https://www.npmjs.com/package/png-sorter">
-        <img alt="NPM" src="https://img.shields.io/badge/npm-v0.0.2-brightgreen.svg" />
+    <a href="https://www.npmjs.com/package/img-sorter">
+        <img alt="NPM" src="https://img.shields.io/badge/npm-v0.0.5-brightgreen.svg" />
     </a>
 </p>
 
@@ -25,9 +25,9 @@
 
 ## Usage
 
-1. `npm i png-sorter -g`
+1. `npm i img-sorter -g`
 
-2. `png-sorter <Folder Path>`
+2. `img-sorter <Folder Path>`, e.g. `img-sorter ./`
 
 ## Depend
 
