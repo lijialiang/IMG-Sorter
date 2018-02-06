@@ -1,6 +1,6 @@
 {
-  "name": "png-sorter",
-  "version": "0.0.2",
+  "name": "img-sorter",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilijialiang/PNG-Sorter.git"
+    "url": "git+https://github.com/lilijialiang/IMG-Sorter.git"
   },
   "author": "lijialiang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lilijialiang/PNG-Sorter/issues"
+    "url": "https://github.com/lilijialiang/IMG-Sorter/issues"
   },
-  "homepage": "https://github.com/lilijialiang/PNG-Sorter#readme",
+  "homepage": "https://github.com/lilijialiang/IMG-Sorter#readme",
   "dependencies": {
     "glob": "^7.1.2"
   },
   "bin": {
-    "png-sorter": "index.js"
+    "img-sorter": "index.js"
   }
 }

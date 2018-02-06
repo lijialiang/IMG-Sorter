@@ -2,6 +2,7 @@
 
 'use strict';
 
+const path = require('path');
 const fs = require('fs');
 const glob = require('glob');
 
@@ -22,9 +23,10 @@ const pad = function ( num, n ) {
     return num;
 }
 
-const files = glob.sync( `${ folder }/*.png` );
+const files = glob.sync( `${ folder }/*.{png,jpg,jpeg,gif}` );
 
 files.forEach( ( f, index ) => {
-    const n = `${ folder }/${ pad( index, 10 ) }.png`;
+    const extname = path.extname( f );
+    const n = `${ folder }/${ pad( index, 12 ) }${ extname }`;
     fs.renameSync( f, n );
 } )
